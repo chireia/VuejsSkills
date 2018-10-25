@@ -1,6 +1,6 @@
 ## VuejsSkills
 
-### Configuração
+#### Configuração
 ```
 npm install
 ```
