@@ -1,26 +1,16 @@
-# vue-skills
+## VuejsSkills
 
-## Project setup
+### Configuração
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compilar e hot-reload para desenvolver
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compilar e minificar para produção
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
